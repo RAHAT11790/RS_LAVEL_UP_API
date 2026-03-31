@@ -1,3 +1,0 @@
-/stop
-/run
-/active_bots
